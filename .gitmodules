@@ -1,0 +1,15 @@
+[submodule "Rustbook"]
+	path = Rustbook
+	url = https://github.com/parthesh28/Rustbook
+[submodule "Rustlings"]
+	path = Rustlings
+	url = https://github.com/parthesh28/Rustlings
+[submodule "Blueshift"]
+	path = Blueshift
+	url = https://github.com/parthesh28/blueshift
+[submodule "Spliter"]
+	path = Spliter
+	url = https://github.com/parthesh28/spliter-sol
+[submodule "Ackee"]
+	path = Ackee
+	url = https://github.com/Parthesh28/Ackee-SOS-7
